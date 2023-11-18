@@ -1,4 +1,4 @@
-![Travis CI](https://travis-ci.com/krasserm/super-resolution.svg?branch=master)
+
 
 # Single Image Super-Resolution with EDSR, WDSR and SRGAN
 
